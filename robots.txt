@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Stop trying to find my secret directories nub
+# I stole whole source code lol 🤣
